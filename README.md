@@ -11,7 +11,7 @@ sudo apt install docker-compose -y
 docker-compose --version
 
 
-# insatll java [Required for jenkins]
+# install java [Required for jenkins]
 sudo apt install fontconfig openjdk-17-jre -y
 java -version
 
